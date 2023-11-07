@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="h.css">
+</head>
+<body>
+    <nav>
+        <label class="logo" ><a class="logolink" href="#">Smart City</a></label>
+        <ul>
+            <li><a class="link" href="#">Home</a></li>
+            <li><a class="link" href="#">About</a></li>
+            <li><a class="link" href="#">Services</a></li>
+            <li><a class="link" href="#">Contact</a></li>
+            <li><a class="link" href="#">Feedback</a></li>
+        </ul>
+    </nav>
+    <hr><div class="stbg" >
+    <div class="elementst" ><p class="st">What is a Smart City?</p>
+        <hr class="sthr" >
+        <div class="contain" ><div class="ig" >
+            <img class="imgg" src="https://th.bing.com/th/id/OIP.QnTY6onY6W9-__8mKeyDtQHaFj?pid=ImgDet&rs=1"></div><div class="p1" >
+            <p class="sth">A Smart City is a technologically modern urban area that uses different types of electronic methods and sensors to collect specific data. Information gained from that data is used to manage assets, resources and services efficiently; in return, that data is used to improve operations across the city.</p>
+        </div></div>
+        </div></div>
+        
+        <section id="projects" class="projects-section">
+            <h2 class="projects-section-header">Some Smart Cities Of India!</h2>
+            <hr class="rdhr" >
+          
+            <div class="projects-grid">
+              <a
+                href="https://smartcities.data.gov.in/city/port-blair"
+                target="_blank"
+                class="project project-tile"
+              >
+                <img
+                  class="project-image"
+                  src="https://th.bing.com/th/id/OIP.54jhLLg0_UfRehZIs57kfwHaEc?pid=ImgDet&rs=1"
+                  alt="project"
+                />
+                <p class="project-title">
+                  
+                  Port blair
+                  
+                </p>
+              </a>
+              <a
+                href="https://www.proptiger.com/guide/post/the-cosmopolitan-smart-city-visakhapatnam"
+                target="_blank"
+                class="project project-tile"
+              >
+                <img
+                  class="project-image"
+                  src="https://th.bing.com/th/id/OIP.rtvBmiH487NkRHGa4iyQ1gHaEa?pid=ImgDet&rs=1"
+                  alt="project"
+                />
+                <p class="project-title">
+                    Visakhapatnam
+                </p>
+              </a>
+              <a
+                href="https://cdma.ap.gov.in/en/tirupati-smart-city-corporation-limited-spv"
+                target="_blank"
+                class="project project-tile"
+              >
+                <img
+                  class="project-image"
+                  src="https://img.traveltriangle.com/blog/wp-content/uploads/2019/12/Things-To-Do-In-Tirupati-16_dec.jpg"
+                  alt="project"
+                />
+                <p class="project-title">
+                  Tirupati
+                </p>
+              </a>
+              <a
+                href="http://www.ksccl.in/"
+                target="_blank"
+                class="project project-tile"
+              >
+                <img
+                  class="project-image"
+                  src="https://d368ufu7xgcs86.cloudfront.net/24487-1583674771.jpg"
+                  alt="project"
+                />
+                <p class="project-title">
+                  kakinada
+                </p>
+              </a>
+              <a
+                href="https://assccl.ap.gov.in/ASSCCL/Views/V1/Home.aspx"
+                target="_blank"
+                class="project project-tile"
+              >
+                <img
+                  class="project-image"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7sa977gka1q9kansnftsigpv43-20180530162409.Medi.jpeg"
+                  alt="project"
+                />
+                <p class="project-title">
+                  Amaravati
+                </p>
+              </a>
+              <a
+                href="https://smartpasighat.in/"
+                target="_blank"
+                class="project project-tile"
+              >
+                <img
+                  class="project-image"
+                  src="https://arunachal24.in/wp-content/uploads/2017/02/pasighat-alg-1-1.jpg"
+                  alt="project"
+                />
+                <p class="project-title">
+                  Pasighat
+                </p>
+              </a>
+            </div>
+        </section>
+        <div class="contact" ><p>hellloooo</p>
+
+        </div>
+    
+           
+          
+    
+    
+</body>
+</html>
